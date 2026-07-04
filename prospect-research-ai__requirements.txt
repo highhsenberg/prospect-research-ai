@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Optional -- only needed if you want LLM-drafted emails instead of the
+# built-in template fallback. Install whichever provider you use.
+# anthropic>=0.34.0
+# openai>=1.40.0
